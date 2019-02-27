@@ -1,7 +1,7 @@
 {
-    "name": "moderntribe/bigcommerce-api-php-v3",
+    "name": "acromedia/bigcommerce-api-php-v3",
     "version": "1.7.0",
-    "description": "",
+    "description": "Fork of moderntribe's work, likely temporary",
     "keywords": [
         "swagger",
         "php",
